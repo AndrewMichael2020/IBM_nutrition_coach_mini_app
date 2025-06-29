@@ -103,7 +103,7 @@ To further enhance your expertise and build on this foundation, consider:
 
 ## License
 
-This project is for educational purposes only. See [LICENSE](LICENSE) for details if provided.
+This project is for learning purposes. 
 
 ---
 
